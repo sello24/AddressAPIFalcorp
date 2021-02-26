@@ -1,0 +1,16 @@
+com\addressapi\entity\Country.class
+com\addressapi\rest\ProvinceController.class
+com\addressapi\service\ProvinceServiceImpl.class
+com\addressapi\rest\AddressController.class
+com\addressapi\dao\ProvinceRepository.class
+com\addressapi\entity\Province.class
+com\addressapi\dao\AddressRepository.class
+com\addressapi\entity\Address.class
+com\addressapi\service\ProvinceService.class
+com\addressapi\AddressServiceAPI.class
+com\addressapi\service\AddressServiceImpl.class
+com\addressapi\service\CountryService.class
+com\addressapi\dao\CountryRepository.class
+com\addressapi\service\AddressService.class
+com\addressapi\service\CountryServiceImpl.class
+com\addressapi\rest\CountryController.class
